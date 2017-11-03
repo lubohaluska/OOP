@@ -12,7 +12,6 @@ namespace OOP
         private int obytneMiestnosti;
         private float uzitkovaPlocha, zastavanaPlocha;
         public Dom(string nazov, string typ, string poschodie, int obytneMiestnosti, float uzitkovaPlocha, float zastavanaPlocha)
-
         {
             this.nazov=nazov;
             this.typ = typ;
